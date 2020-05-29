@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/mqtt/esp-mqtt/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/lwip/lwip/src/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/lwip/port/esp8266/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/esp_common/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/freertos/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/freertos/include/freertos/private",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/esp8266/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/heap/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/heap/port/esp8266/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/esp_event/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/tcpip_adapter/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/lwip/include/apps/sntp",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/lwip/include/apps",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/log/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/components/nvs_flash/include",
+                "/home/maxim/esp/ESP8266_RTOS_SDK/examples/common_components/protocol_examples_common/include/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-6.0",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
